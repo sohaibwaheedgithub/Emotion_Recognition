@@ -36,7 +36,7 @@ Additionally, a **Face Orientation Detection** module was trained using a simple
 
 ## 🎥 Demo
 ![Emotion Recognition Demo](demo_video/demo.gif)
-*A short demo showcasing real-time emotion recognition and face orientation detection.*
+
 ---
 
 ## 📊 Results

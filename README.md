@@ -36,8 +36,10 @@ Additionally, a **Face Orientation Detection** module was trained using a simple
 
 ## 🎥 Demo
 
-📽️ [Watch Demo](demo_video/emotion_recognition_demo.mp4)
-*A short demo showcasing real-time emotion recognition and face orientation detection.*
+<video width="640" height="360" controls autoplay loop muted>
+  <source src="demo_video/emotion_recognition_demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
 

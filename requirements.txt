@@ -1,0 +1,14 @@
+# python==3.9.16
+
+tensorflow==2.5.3
+keras==2.4.3
+mediapipe==0.10.0 #previous 0.8.11
+openvino==2022.1.0
+openvino_dev==2022.1.0
+pyqt5==5.15.4
+pyqt5-tools==5.15.4.3.2
+matplotlib==3.6.3
+numpy==1.19.5
+opencv_python==4.5.5.64
+flatbuffers==1.12
+tensorflowjs==3.11.0
